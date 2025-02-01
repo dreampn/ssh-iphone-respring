@@ -44,7 +44,7 @@ export SSH_PASS="your_ssh_password"
 ## 2. รันโปรแกรม
 รันโปรแกรมด้วยคำสั่ง:
 ```bash
-./respring
+./ssh-iphone-respring
 ```
 # ข้อควรรู้
 SpringBoard: เป็นโปรเซสหลักที่จัดการหน้าจอและ UI ของ iOS
