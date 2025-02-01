@@ -33,7 +33,7 @@ brew install libssh
 ### วิธีคอมไพล์
 ใช้คำสั่งต่อไปนี้เพื่อคอมไพล์โปรแกรม
 ```bash
-cc -o respring ssh-iphone-respring.c -lssh
+gcc ssh-iphone-respring.c -o ssh-iphone-respring -lssh
 ```
 ## วิธีใช้งาน
 1. ตั้งค่ารหัสผ่าน
