@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <libssh/libssh.h>
 
-#define DEFAULT_HOST "127.0.0.1"  // Primary iOS IP.
+#define DEFAULT_HOST "127.0.0.1"  // Primary iOS IP. You need to change it to your real IP. For example i use "127.0.0.1" 
 #define DEFAULT_USER "mobile" // Primary user of iPhone ##Defualt dopamine jb is "mobile"
 #define DEFAULT_COMMAND "killall -9 SpringBoard"  // Fucking aggressive respring command !!!beware before using this shit!!!
 
